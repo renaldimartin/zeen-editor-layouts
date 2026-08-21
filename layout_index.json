@@ -12,5 +12,12 @@
     "desc": "Kerangka tema emas standar ZEEN bawaan pabrik.",
     "version": "2.81",
     "url": "https://github.com/renaldimartin/zeen-editor-layouts/releases/download/v1.0/layout_emas.zip"
+  },
+  {
+    "id": "layout_biru",
+    "name": "Layout Biru 2.81",
+    "desc": "Kerangka tema standar ZEEN bawaan pabrik.",
+    "version": "2.81",
+    "url": ""
   }
 ]
