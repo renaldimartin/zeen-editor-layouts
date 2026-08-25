@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0",
-  "version_code": 1,
-  "changelog": "- Fitur Update Otomatis\n- Peningkatan Keamanan\n- Perbaikan UI Header",
-  "download_url": "https://github.com/renaldimartin/zeen-editor/releases/latest"
+  "latest_version": "1.1",
+  "version_code": 2,
+  "changelog": "- Perubahan User Interface (UI)\n- Perbaikan Logika Engine\n- Support All Devices\n- Finall Build-Stable \n- SEMOGA MUNGKAL ",
+  "download_url": "https://github.com/renaldimartin/zeen-editor-layouts/releases/download/v1.1/app-release.apk"
 }
