@@ -6,7 +6,7 @@
   { "fileName": "csfff2_loading_bg.jpg", "relativePath": "assets/csfff2_loading_bg.jpg", "width": 1600, "height": 720, "isLoading": true },
   { "fileName": "csfff_loading_bg.jpg", "relativePath": "assets/csfff_loading_bg.jpg", "width": 1600, "height": 720, "isLoading": true },
   { "fileName": "cz777_loading_bg.jpg", "relativePath": "assets/cz777_loading_bg.jpg", "width": 1600, "height": 720, "isLoading": true },
-  { "fileName": "dfdc_loading_bg.jpg", "relativePath": "assets/slot_dfdc_res/dfdc_loading_bg.jpg", "width": 1600, "height": 720, "isLoading": true },
+  { "fileName": "dfdc_loading_bg.jpg", "relativePath": "assets/slot_dfdc_res/dfdc_loading_bg.jpg", "width": 160Fdg_loading0, "height": 720, "isLoading": true },
   { "fileName": "dhzw_loading_bg.jpg", "relativePath": "assets/dhzw_loading_bg.jpg", "width": 1600, "height": 720, "isLoading": true },
   { "fileName": "fdll_frame_loading_bg.jpg", "relativePath": "assets/fdll_frame_loading_bg.jpg", "width": 720, "height": 1600, "isLoading": true },
   { "fileName": "frzl_loading_bg.jpg", "relativePath": "assets/frzl_loading_bg.jpg", "width": 720, "height": 1600, "isLoading": true },
@@ -39,7 +39,7 @@
   { "fileName": "slot364_loading_bg.jpg", "relativePath": "assets/slot364_loading_bg.jpg", "width": 1600, "height": 720, "isLoading": true },
   { "fileName": "zcat_loading_bg.jpg", "relativePath": "assets/zcat_loading_bg.jpg", "width": 1600, "height": 720, "isLoading": true },
   { "fileName": "Slot_loading_bg.jpg", "relativePath": "assets/slot_common_res/Slot_loading_bg.jpg", "width": 1600, "height": 720, "isLoading": true },
-  { "fileName": "DG_loading_bg.jpg", "relativePath": "assets/apk_base_res/DG_loading_bg.jpg", "width": 1529, "height": 688, "isLoading": true },
+  { "fileName": "DG_loading_bg.jpg", "relativePath": "assets/apk_base_res/apk_res0/DG_loading_bg.jpg", "width": 1529, "height": 688, "isLoading": true },
   { "fileName": "tms_loading_bg.jpg", "relativePath": "assets/lobby_new/tms_loading_bg.jpg", "width": 1529, "height": 688, "isLoading": true },
   { "fileName": "dfdc_loading_bg_v2.jpg", "relativePath": "assets/slot_dfdc_res/dfdc_loading_bg.jpg", "width": 1529, "height": 688, "isLoading": true }
 ]
