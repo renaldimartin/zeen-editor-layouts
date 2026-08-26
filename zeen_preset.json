@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "layoutWhitelist": [
     "assets/Panda_frame_kuang_bg.png",
     "assets/Slot_4P_nop.png",
@@ -1110,8 +1110,7 @@
     { "fileName": "zcat_loading_bg.jpg", "relativePath": "assets/zcat_loading_bg.jpg", "width": 1600, "height": 720, "isLoading": true },
     { "fileName": "Slot_loading_bg.jpg", "relativePath": "assets/slot_common_res/Slot_loading_bg.jpg", "width": 1600, "height": 720, "isLoading": true },
     { "fileName": "DG_loading_bg.jpg", "relativePath": "assets/apk_base_res/DG_loading_bg.jpg", "width": 1529, "height": 688, "isLoading": true },
-    { "fileName": "tms_loading_bg.jpg", "relativePath": "assets/lobby_new/tms_loading_bg.jpg", "width": 1529, "height": 688, "isLoading": true },
-    { "fileName": "dfdc_loading_bg_v2.jpg", "relativePath": "assets/slot_dfdc_res/dfdc_loading_bg.jpg", "width": 1529, "height": 688, "isLoading": true }
+    { "fileName": "tms_loading_bg.jpg", "relativePath": "assets/lobby_new/tms_loading_bg.jpg", "width": 1529, "height": 688, "isLoading": true }
   ],
   "spineConfigs": [
     { "fileName": "eff_spine_slot333_loading2.png", "canvasW": 1021, "canvasH": 1024, "coords": [{ "x": 2.0, "y": 241.0, "w": 353.0, "h": 783.0 }], "isPortrait": true, "rotasi": 0 },
