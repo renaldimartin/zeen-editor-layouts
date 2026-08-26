@@ -1,1 +1,30 @@
-
+{
+  "version": 1,
+  "targetsL": [
+    { "id": "1600x720", "name": "Standar L", "info": "Panda_bg...", "color": "#0EA5E9", "w": 1600, "h": 720 },
+    { "id": "2340x720", "name": "Ultra-Wide", "info": "Slot_lobby", "color": "#3B82F6", "w": 2340, "h": 720 },
+    { "id": "1820x562", "name": "VIP Banner", "info": "DG_VIP_bg", "color": "#A855F7", "w": 1820, "h": 562 },
+    { "id": "1700x720", "name": "Leaderboard", "info": "DG_lb_bg_3", "color": "#14B8A6", "w": 1700, "h": 720 },
+    { "id": "1610x720", "name": "Wide Special", "info": "slot346_main_bg", "color": "#10B981", "w": 1610, "h": 720 },
+    { "id": "1560x720", "name": "Share Lobby", "info": "Slot_lobby_share", "color": "#6366F1", "w": 1560, "h": 720 },
+    { "id": "1136x640", "name": "Award & Share", "info": "DG_award_share", "color": "#0EA5E9", "w": 1136, "h": 640 },
+    { "id": "920x696", "name": "Compact L", "info": "slot335_main", "color": "#F97316", "w": 920, "h": 696 }
+  ],
+  "targetsP": [
+    { "id": "720x1600", "name": "Standar P", "info": "aztc_youwin", "color": "#10B981", "w": 720, "h": 1600 },
+    { "id": "860x1299", "name": "Custom Lobby", "info": "slot333_lobby", "color": "#3B82F6", "w": 860, "h": 1299 },
+    { "id": "760x1600", "name": "Tall Portrait", "info": "ynhs_basebg", "color": "#A855F7", "w": 760, "h": 1600 },
+    { "id": "740x1620", "name": "Extra Tall", "info": "slot348_bg", "color": "#14B8A6", "w": 740, "h": 1620 },
+    { "id": "720x1322", "name": "Mid Portrait", "info": "slot357_free", "color": "#0EA5E9", "w": 720, "h": 1322 },
+    { "id": "720x920", "name": "Short Portrait", "info": "slot341_free", "color": "#6366F1", "w": 720, "h": 920 },
+    { "id": "720x604", "name": "Sky BG", "info": "aztec_sky", "color": "#F59E0B", "w": 720, "h": 604 }
+  ],
+  "loadingAssetsTargets": [
+    { "fileName": "Panda_loading_bg.jpg", "relativePath": "assets/Panda_loading_bg.jpg", "width": 1600, "height": 720, "isLoading": true },
+    { "fileName": "aztec_loading_bg.jpg", "relativePath": "assets/aztec_loading_bg.jpg", "width": 720, "height": 1600, "isLoading": true },
+    { "fileName": "cfzy_loading_bg.jpg", "relativePath": "assets/cfzy_loading_bg.jpg", "width": 1600, "height": 720, "isLoading": true }
+  ],
+  "spineConfigs": [
+     { "fileName": "eff_spine_slot333_loading2.png", "canvasW": 1021, "canvasH": 1024, "coords": [{ "x": 2, "y": 241, "w": 353, "h": 783 }], "isPortrait": true, "rotasi": 0 }
+  ]
+}
