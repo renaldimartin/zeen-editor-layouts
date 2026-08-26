@@ -2,8 +2,22 @@
   {
     "id": "layout_hitam",
     "name": "Layout Hitam 2.81",
-    "desc": "Kerangka tema gelap standar ZEEN bawaan pabrik.",
+    "desc": "Kerangka tema Gelap Standar.",
     "version": "2.81",
     "url": "https://github.com/renaldimartin/zeen-editor-layouts/releases/download/v1.0/layout_hitam.zip"
+  },
+  {
+    "id": "layout_biru",
+    "name": "Layout Biru 2.81",
+    "desc": "Kerangka tema Biru Es",
+    "version": "2.81",
+    "url": "https://github.com/renaldimartin/zeen-editor-layouts/releases/download/v1.0/layout_biru.zip"
+  },
+  {
+    "id": "layout_emas",
+    "name": "Layout Emas 2.81",
+    "desc": "Kerangka tema Emas keren.",
+    "version": "2.81",
+    "url": "https://github.com/renaldimartin/zeen-editor-layouts/releases/download/v1.0/layout_emas.zip"
   }
 ]
